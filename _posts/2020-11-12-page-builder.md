@@ -10,9 +10,9 @@ page_sections:
     slug: first-page
     content: This is the content on first page
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Column 2
+    slug: first-page
+    content: Column 2
   col_3:
     headline: ''
     slug: ''
